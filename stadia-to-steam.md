@@ -85,5 +85,6 @@ cp ~/Downloads/stadia-takeout-2023-01-18/takeout-20230118T212812Z-001/Takeout/St
 
 ## Start the game
 For me it of course silently failed again but it seemed to have triggered the save game sync.
-I navigated to: https://store.steampowered.com/account/remotestorage -> Cyberpunk / "Show files" and the file was there
+I navigated to: https://store.steampowered.com/account/remotestorage -> Cyberpunk / "Show files" and the file was there.
+![steam save game files](https://github.com/rweglarz/random/blob/media/images/steam-saves.webp)
 After starting the game in GeForce Now I got an error about save games not being able to sync but luckily it sounded more like a warning and I could actually load the new save game.
